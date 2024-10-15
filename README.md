@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hello! Welcome to my profile<br>My name is Samuel <br>I'm 23 years old <br>I live in Chile 🇨🇱<br>I learning Web Development<br><br>More about me:<br>I am a student from Chile and I am in the fourth year of Civil Engineering in Computing.<br>I like everything related to soccer, I am a big fan of the Chilean team, Colo Colo and Barcelona.<br>In my free time I like to play video games, such as Counter Strike(+600 hours), FIFA (+2000 hours), TFT(+400 hours) and Fortnite(+4000 hours).
+💫 About Me:
+Hello! Welcome to my profile 😄<br> 👋 My name is Samuel<br> 🎂 I'm 23 years old<br> 🌍 I live in Chile 🇨🇱<br> 💻 Currently learning Web Development<br>
+
+🌟 More About Me:
+📚 I am a fourth-year Civil Engineering in Computing student from Chile.<br> ⚽ I love everything related to soccer! Big fan of the Chilean national team, Colo Colo, and Barcelona. 💙❤️<br> 🎮 In my free time, I love playing video games like:<br> • 🔫 Counter Strike (+600 hours)<br> • ⚽ FIFA (+2000 hours)<br> • 🧙‍♂️ TFT (+400 hours)<br> • 🌌 Fortnite (+4000 hours)<br>
 
 
 ## 🌐 Socials:
