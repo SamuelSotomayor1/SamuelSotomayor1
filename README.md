@@ -1,4 +1,4 @@
-## Hello!:
+## Hello!
 <br><img src="https://www.ligafutbol.net/wp-content/2018/01/Alexis-Sanchez-saludando.jpg" alt="Alexis Sanchez" width="500"><br>
 
 ## About Me:
