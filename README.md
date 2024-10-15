@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/goaal11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Goal11_YT) 
 
-# Thanks for your visit:
+## Thanks for your visit
 <br><img src="https://img2.rtve.es/i/?w=1600&i=1421881570718.jpg" alt="Lionel Messi" width="500"><br>
 
 ---
