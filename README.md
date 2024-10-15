@@ -1,7 +1,7 @@
-## Hello!
+# Hello!
 <br><img src="https://www.ligafutbol.net/wp-content/2018/01/Alexis-Sanchez-saludando.jpg" alt="Alexis Sanchez" width="500"><br>
 
-## About Me:
+# About Me:
 <br> 👋 My name is Samuel<br> 🎂 I'm 23 years old<br> 🌍 I live in Chile 🇨🇱<br> 💻 Currently learning Web Development<br>
 
 🌟 More About Me:<br> 📚 I am a fourth-year Civil Engineering in Computing student from Chile.<br> ⚽ I love everything related to soccer! Big fan of the Chilean national team, Colo Colo, and Barcelona.<br> 🎮 In my free time, I love playing video games like:<br> • 🔫 Counter Strike (+600 hours)<br> • ⚽ FIFA (+2000 hours)<br> • 🧙‍♂️ TFT (+400 hours)<br> • 🌌 Fortnite (+4000 hours)<br>
