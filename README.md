@@ -1,9 +1,10 @@
-💫 About Me:
-Hello! Welcome to my profile 😄<br> 👋 My name is Samuel<br> 🎂 I'm 23 years old<br> 🌍 I live in Chile 🇨🇱<br> 💻 Currently learning Web Development<br>
+##Hello!
+<img src="https://www.ligafutbol.net/wp-content/2018/01/Alexis-Sanchez-saludando.jpg" alt="Alexis Sanchez" width="300">
 
-🌟 More About Me:
-📚 I am a fourth-year Civil Engineering in Computing student from Chile.<br> ⚽ I love everything related to soccer! Big fan of the Chilean national team, Colo Colo, and Barcelona. 💙❤️<br> 🎮 In my free time, I love playing video games like:<br> • 🔫 Counter Strike (+600 hours)<br> • ⚽ FIFA (+2000 hours)<br> • 🧙‍♂️ TFT (+400 hours)<br> • 🌌 Fortnite (+4000 hours)<br>
+##💫 About Me:
+<br> 👋 My name is Samuel<br> 🎂 I'm 23 years old<br> 🌍 I live in Chile 🇨🇱<br> 💻 Currently learning Web Development<br>
 
+🌟 More About Me:<br> 📚 I am a fourth-year Civil Engineering in Computing student from Chile.<br> ⚽ I love everything related to soccer! Big fan of the Chilean national team, Colo Colo, and Barcelona.<br> 🎮 In my free time, I love playing video games like:<br> • 🔫 Counter Strike (+600 hours)<br> • ⚽ FIFA (+2000 hours)<br> • 🧙‍♂️ TFT (+400 hours)<br> • 🌌 Fortnite (+4000 hours)<br>
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/goaal11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Goal11_YT) 
@@ -14,6 +15,9 @@ Hello! Welcome to my profile 😄<br> 👋 My name is Samuel<br> 🎂 I'm 23 yea
 ![](https://github-readme-stats.vercel.app/api?username=SamuelSotomayor1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelSotomayor1&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSotomayor1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#Thanks for your visit
+<img src="https://img2.rtve.es/i/?w=1600&i=1421881570718.jpg" alt="Lionel Messi" width="300">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SamuelSotomayor1&icon=0&color=3)](https://visitcount.itsvg.in)
