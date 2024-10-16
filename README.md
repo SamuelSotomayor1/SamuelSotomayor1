@@ -1,5 +1,5 @@
 # Hello!
-<br><img src="https://www.ligafutbol.net/wp-content/2018/01/Alexis-Sanchez-saludando.jpg" alt="Alexis Sanchez" width="500"><br>
+<div align="center"><br><img src="https://www.ligafutbol.net/wp-content/2018/01/Alexis-Sanchez-saludando.jpg" alt="Alexis Sanchez" width="500"><br></div>
 
 # About Me:
 <br> 👋 My name is Samuel<br> 🎂 I'm 23 years old<br> 🌍 I live in Chile 🇨🇱<br> 💻 Currently learning Web Development<br>
@@ -17,7 +17,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/goaal11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Goal11_YT) 
 
 ## Thanks for your visit
-<br><img src="https://img2.rtve.es/i/?w=1600&i=1421881570718.jpg" alt="Lionel Messi" width="500"><br>
+<div align="center"><br><img src="https://img2.rtve.es/i/?w=1600&i=1421881570718.jpg" alt="Lionel Messi" width="500"><br></div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SamuelSotomayor1&icon=0&color=3)](https://visitcount.itsvg.in)
