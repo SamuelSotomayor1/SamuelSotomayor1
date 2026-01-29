@@ -5,7 +5,7 @@
 <br> 👋 My name is Samuel<br> 🎂 I'm 24 years old<br> 🌍 I live in Chile 🇨🇱<br> 💻 FullStack Developer<br>
 
 🌟 More About Me:<br> 📚 I am a 
-fifth-year Civil Engineering in Computing student from Chile.<br> ⚽ I love everything related to soccer! Big fan of the Chilean national team, Colo Colo, and Barcelona.<br> 🎮 In my free time, I love playing video games.
+Civil Computer Engineer from Chile.<br> ⚽ I love everything related to soccer! Big fan of the Chilean national team, Colo Colo, and Barcelona.<br> 🎮 In my free time, I love playing video games.
 <div align="center">
   
 # 💻 Tech Stack:
