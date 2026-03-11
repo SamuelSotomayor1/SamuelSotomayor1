@@ -23,6 +23,9 @@ Civil Computer Engineer from Chile.<br> ⚽ I love everything related to soccer!
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/typeorm-fe0808.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamuelSotomayor1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
