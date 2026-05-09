@@ -32,10 +32,6 @@ Civil Computer Engineer from Chile.<br> ⚽ I love everything related to soccer!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelSotomayor1&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSotomayor1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/goaal11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Goal11_YT)
-
-
 ## Thanks for your visit
 
 </div>
