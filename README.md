@@ -26,6 +26,12 @@ Civil Computer Engineer from Chile.<br> ⚽ I love everything related to soccer!
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/typeorm-fe0808.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ORDS](https://img.shields.io/badge/Oracle_ORDS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamuelSotomayor1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
